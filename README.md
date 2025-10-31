@@ -7,6 +7,4 @@ Contents:
 - `expdir/copy_run.sh` — SLURM staging
 - `notebooks/` — baseline + demo
 - `environment.yml`, `LICENSE`, `CODEOWNERS`, `.github/workflows/ci.yml`
-Create env with:
-```bash
-conda env create -f environment.yml && conda activate neccton_no3
+- Create env with: `conda env create -f environment.yml && conda activate neccton_no3`
